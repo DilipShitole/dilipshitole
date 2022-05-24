@@ -15,17 +15,7 @@ class Student3 implements Student2, Student1 {
 	void showData() {
 	}
 
-	@Override
-	public void display() {
-		System.out.println("Student 3 class");
-
-	}
-
-	@Override
-	public void display1() {
-		System.out.print("display1 method");
-
-	}
+	
 }
 
 public class MultipleInheritance {
